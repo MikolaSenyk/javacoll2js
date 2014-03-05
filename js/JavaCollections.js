@@ -1,6 +1,5 @@
 /**
  * HashMap class implemantation in JavaScript
- * TODO move all classes into JavaCollections.js file
  */
 
 "use strict";
